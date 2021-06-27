@@ -1,0 +1,12 @@
+body{
+    color: cyan;
+    margin: 0px;
+}
+h1{
+    font-size: 100px;
+    color: burlywood;
+}
+p{
+    color: brown;
+    font-size: 50px;
+}
